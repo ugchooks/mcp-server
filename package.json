@@ -1,6 +1,6 @@
 {
   "name": "ugchooks-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP connector for UGCHooks: create TikTok and Reels post batches from product links and read hooks, captions and hashtags.",
   "type": "module",
   "bin": {
@@ -38,10 +38,10 @@
   "homepage": "https://ugchooks.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saeedmsdi-ugchooks/mcp-server.git"
+    "url": "git+https://github.com/ugchooks/mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/saeedmsdi-ugchooks/mcp-server/issues"
+    "url": "https://github.com/ugchooks/mcp-server/issues"
   },
   "publishConfig": {
     "access": "public"
@@ -56,7 +56,7 @@
     "instagram-reels",
     "social-media-content"
   ],
-  "mcpName": "io.github.saeedmsdi-ugchooks/mcp-server",
+  "mcpName": "io.github.ugchooks/mcp-server",
   "overrides": {
     "tmp": "^0.2.6"
   }

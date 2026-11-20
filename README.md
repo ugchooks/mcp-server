@@ -26,7 +26,7 @@ Requires Node.js 22 or newer. Add this configuration:
 }
 ```
 
-Or install the `.mcpb` file from [Releases](https://github.com/saeedmsdi-ugchooks/mcp-server/releases) in your desktop client's Extensions settings. The connector opens your browser for sign-in. If the consent page asks you to sign in, use its new-tab link, then return and refresh the consent page.
+Or install the `.mcpb` file from [Releases](https://github.com/ugchooks/mcp-server/releases) in your desktop client's Extensions settings. The connector opens your browser for sign-in. If the consent page asks you to sign in, use its new-tab link, then return and refresh the consent page.
 
 ## Privacy and permissions
 
@@ -40,4 +40,4 @@ Run `npm ci` and `npm test`. GitHub Actions publishes a new package version usin
 
 Marketplace approval is separate from npm publication. See the product’s submission notes for endpoint tests and review prerequisites.
 
-[Website](https://ugchooks.app) · [Issues](https://github.com/saeedmsdi-ugchooks/mcp-server/issues)
+[Website](https://ugchooks.app) · [Issues](https://github.com/ugchooks/mcp-server/issues)
